@@ -9,8 +9,7 @@
 5. Using the extracted timestamp, create dataframes for auto mode and manual mode.
 6. Prepare new dataframes for overnight and daytime data.
 7. Calculate all the metrics for the created datasets and store its calculation in a new dataframe.
-8. Add an extra column of [1.1, 1.1] to evaluate the code on Gradescope.
-9. Export the result dataframe into Results.csv without the index and the header using a built-in function provided by pandas.
+8. Export the result dataframe into Results.csv without the index and the header using a built-in function provided by pandas.
 
 Configuration & Packages Used:
 
