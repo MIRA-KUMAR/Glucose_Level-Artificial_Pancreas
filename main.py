@@ -131,8 +131,6 @@ for ind, data in enumerate(datasets):
         results.loc['Auto Mode'] = temp
 
 
-results['Gradscope_variable'] = [1.1, 1.1]
-
 results.to_csv('Results.csv', header=False, index=False)
 
 # Done!
